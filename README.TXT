@@ -8,9 +8,9 @@ December 2014
 
 Super Mario Bros. 2 implementation in FPGA
 
-*******************************************************************************************************************
-| Check out the wiki: [link to Wiki!](https://github.com/letyrodridc/fpga-super-mario/wiki/Super-Mario-Bros-FPGA) |
-*******************************************************************************************************************
+************
+Check out the wiki: https://github.com/letyrodridc/fpga-super-mario/wiki/Super-Mario-Bros-FPGA 
+************
 ------------------------------------------------------------
 
 Facultad de Ciencias Exactas y Naturales - UBA
